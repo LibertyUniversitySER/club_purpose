@@ -1,1 +1,1 @@
-# club_purpose
+The Software Engineering Readiness Club exists to bridge the gap between class content and professional expectations for students at Liberty University. Together, we will explore industry tools, standard conventions, and organize teams to develop software projects.
